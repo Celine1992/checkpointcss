@@ -25,7 +25,7 @@ img{
 }
 thead{
     color: yellow;
-    font-family: "Roboto"
+    font-family: "Roboto";
     font-size: large;
     
 }
@@ -115,10 +115,16 @@ body{
 font-family:"Roboto" ;
     text-align: center;
     font-size: 14px;
+
+
+}
 .navbar a:hover{
     background: rgba(red, green, blue, alpha)
 
 }
 
-
+.form{
+    border-radius: 2px;
+    border: solid 1px Red;
+    background-color: black;
 }
